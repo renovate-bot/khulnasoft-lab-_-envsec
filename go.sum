@@ -143,6 +143,8 @@ github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 go.jetify.com/typeid v1.1.1-0.20240520210211-61dfb24ffdcd h1:d1gNGoqWVJzINqQeVG5wf+tBQvBFNPYjYjk/hBzFuFE=
 go.jetify.com/typeid v1.1.1-0.20240520210211-61dfb24ffdcd/go.mod h1:68KXnMPJvJi4Pf2vUhr1QtWo5LfXzMwbUdLfwPlO4jI=
+go.jetify.com/typeid v1.3.0 h1:fuWV7oxO4mSsgpxwhaVpFXgt0IfjogR29p+XAjDCVKY=
+go.jetify.com/typeid v1.3.0/go.mod h1:CtVGyt2+TSp4Rq5+ARLvGsJqdNypKBAC6INQ9TLPlmk=
 go.jetpack.io/pkg v0.0.0-20240604160419-7fd38fedd538 h1:GPvPVELCZAs67sr1M4Ze+twLqu8nJhrJl1Oo1EYEbZQ=
 go.jetpack.io/pkg v0.0.0-20240604160419-7fd38fedd538/go.mod h1:AFPOdSxxxXnZGwfi+TwjtvD+9CAgk5pbevFp16+IQSU=
 go.jetpack.io/pkg v0.0.0-20240813161246-b9234bf6a10d h1:nbUVcWlfzsw4cCf60IDnplJ0GtKtwAdkGePlUpH1YJU=
