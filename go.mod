@@ -19,11 +19,11 @@ require (
 	github.com/muesli/termenv v0.15.2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
-	github.com/samber/lo v1.39.0
+	github.com/samber/lo v1.47.0
 	github.com/spf13/cobra v1.8.0
 	go.jetify.com/typeid v1.1.1-0.20240520210211-61dfb24ffdcd
 	go.jetpack.io/pkg v0.0.0-20240813161246-b9234bf6a10d
-	golang.org/x/text v0.14.0
+	golang.org/x/text v0.16.0
 )
 
 require (
