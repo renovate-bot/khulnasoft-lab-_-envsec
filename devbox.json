@@ -1,6 +1,6 @@
 {
   "packages": [
-    "go@latest",
+    "go@1.24.5",
     "golangci-lint@latest",
     "runx:mvdan/gofumpt@latest",
   ],
